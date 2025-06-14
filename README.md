@@ -98,6 +98,6 @@ Tu peux nous contacter via :
 ## 📩 Email : services.tafarama@gmail.com
 
 ## 📚 Licence
-Ce projet est sous licence MIT . Voir le fichier LICENSE pour plus d’informations.
+Ce projet est sous licence MIT . Voir le fichier [LICENSE](Togo-Lang-Script/LICENSE) pour plus d’informations.
 
 Merci de faire partie de cette initiative linguistique et culturelle pour un Togo multilingue mais uni dans l’écriture ! 🇹🇬
