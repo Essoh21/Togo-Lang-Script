@@ -65,26 +65,17 @@ Nous avons besoin de :
 - **Développeurs** : Créer des outils (claviers adaptés, polices), corriger les erreurs, 
 - **Locuteurs natifs** : Tester dans votre langue, ajouter des exemples, utiliser dans les groupes de discussions
 
-**Démarrage rapide** :
+## 🚀 Démarrage rapide
+
 1. 🍴 Forkez ce dépôt  
 2. 📥 Clonez votre fork :
    ```bash
    git clone https://github.com/votre-utilisateur/nom-du-depot.git
    cd nom-du-depot
-🛠️ Créez une nouvelle branche :
+   git checkout -b type-de-contribution/nom-branche
+   # Exemples :
+   git checkout -b lang/ajout-mina
+   git checkout -b fix/correction-kabye
+   git checkout -b feat/nouvelle-fonctionnalite
 
-bash
-Copy
-Edit
-git checkout -b type-de-contribution/nom-branche
-🧪 Exemples de noms de branches :
-
-bash
-Copy
-Edit
-git checkout -b lang/ajout-mina
-git checkout -b fix/correction-kabye
-yaml
-Copy
-Edit
 
