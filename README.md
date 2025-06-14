@@ -1,5 +1,5 @@
-# Togo-Lang-Script
-Togolang Script (TGS) est un système d'écriture translinguistique conçu pour offrir une orthographe simple, cohérente et adaptable à toutes les langues parlées au Togo. Ce projet vise à harmoniser la diversité linguistique en proposant une écriture standardisée mais flexible pour écrire dans n'importe laquelle des langues du Togo.
+# Togo-lang-Script
+Togo-lang Script (TGS) est un système d'écriture translinguistique conçu pour offrir une orthographe simple, cohérente et adaptable à toutes les langues parlées au Togo. Ce projet vise à harmoniser la diversité linguistique en proposant une écriture standardisée mais flexible pour écrire dans n'importe laquelle des langues du Togo.
 **Un système d'écriture unifié pour les langues togolaises**  
 
 
@@ -7,7 +7,7 @@ Togolang Script (TGS) est un système d'écriture translinguistique conçu pour 
 ---
 
 ## 📜 Projet  
-**Togolang Script (TGS)** est une orthographe simplifiée et standardisée conçue pour :  
+**Togo-lang Script (TGS)** est une orthographe simplifiée et standardisée conçue pour :  
 ✔️ **Écrire toutes les langues du Togo** avec un seul système  
 ✔️ **Combler les lacunes** des alphabets latins traditionnels et faciliter l'écriture dans nos langues sur internet et dans les groupes sociaux 
 ✔️ **Faciliter l'apprentissage** grâce à une approche phonémique  
