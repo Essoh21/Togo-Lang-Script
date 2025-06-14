@@ -85,11 +85,11 @@ Nous avons besoin de :
 ## 📤 Envoyez une Pull Request avec une description claire
 
 ## 📢 Soutenez ce projet
-En partageant l'idée autour de toi
-En écrivant en TGS dans les groupes communautaires
-En participant aux discussions
-En développant un outil ou une police
-En faisant un don pour financer le développement
+ En partageant l'idée autour de toi
+ En écrivant en TGS dans les groupes communautaires
+ En participant aux discussions
+ En développant un outil ou une police
+ En faisant un don pour financer le développement
 
 ##📬 Contact & Réseaux
 Tu peux nous contacter via :
