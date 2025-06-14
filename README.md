@@ -90,8 +90,7 @@ Nous avons besoin de :
 - En participant aux discussions
 - En développant un outil ou une police
 - En faisant un don pour financer le développement
-
-##📬 Contact & Réseaux
+## 📬 Contact & Réseaux
 Tu peux nous contacter via :
 
 ## 🐦 X : 
