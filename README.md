@@ -34,7 +34,7 @@ Le Togo compte **30+ langues** dont beaucoup n'ont pas d'écriture standardisée
 - **Pas d'accents** : Les sons "ou" s'écrivent `ou`
 - **Les lettres h et n forment un nouveau son**: hn
    exemple: mila hnlon nou la seme la (nous allons écrire et nous comprendre (éwé))
-- **K ↔ C interchangeables** : Ex: "koto" = "coto"  
+- **K ↔ C interchangeables** : Ex: Kanami ou canami désignent exactement la même chose le poisson en éwé
 
 ### **Syntaxe d'entrée**  
 Pour commencer à écrire dans une langue :  
@@ -43,7 +43,7 @@ Pour commencer à écrire dans une langue :
      ```text  
      ..kab  (pour Kabyè)  
      ..ewe  (pour Éwé)  
-     ..tem  (pour Tem)
+     ..tem  (pour Tem ou Kotokoli)
      ..ife (pour ifè)
      ..adj (pour Adja)
      ..bas (pour bassar)
@@ -56,17 +56,3 @@ Pour commencer à écrire dans une langue :
 ..ewe  
 Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
 
-## ✨ Fonctionnalités  
-| Caractéristique | Description |  
-|----------------|-------------|  
-| 🔤 **Alphabet modulaire** | 24 caractères de base + extensions |  
-| 🔉 **Notation phonétique** | 1 symbole = 1 son (API simplifié) |  
-| 💻 **Clavier virtuel** | Pack d'installation pour Windows/Android |  
-
-## 📚 Langues supportées  
-```mermaid  
-pie  
-    title Répartition des langues  
-    "Gbe (éwé, mina)" : 45  
-    "Gur (kabyè, tem)" : 35  
-    "Autres (akposso, ifè)" : 20  
