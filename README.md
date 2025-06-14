@@ -56,3 +56,19 @@ Pour commencer à écrire dans une langue :
 ..ewe  
 Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
 
+
+## 🤝 Comment contribuer
+
+Nous avons besoin de :
+- **Linguistes** : Vérifier les transcriptions  
+- **Développeurs** : Créer des outils (claviers, polices)  
+- **Locuteurs natifs** : Tester dans votre langue  
+
+**Démarrage rapide** :
+1. 🍴 Forkez ce dépôt
+2. 📥 Clonez votre fork :  
+   ```bash
+   git clone https://github.com/votre-username/togolang-script.git
+
+git checkout -b ma-contribution
+
