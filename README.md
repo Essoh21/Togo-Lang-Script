@@ -61,10 +61,13 @@ Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)
 ## 🤝 Comment contribuer
 
 Nous avons besoin de :
-- **Linguistes** : Vérifier les transcriptions  
-- **Développeurs** : Créer des outils (claviers, polices)  
-- **Locuteurs natifs** : Tester dans votre langue  
+- **Linguistes** : Vérifier les transcriptions  et autres 
+- **Développeurs** : Créer des outils (claviers adaptés, polices), corriger les erreurs, 
+- **Locuteurs natifs** : Tester dans votre langue, ajouter des exemples, utiliser dans les groupes de discussions
 
 **Démarrage rapide** :
 1. 🍴 Forkez ce dépôt
-2. 📥 Clonez votre fork :  
+2. 📥 Clonez votre fork :
+3.   ```bash  git checkout -b type-de-contribution/nom-branche  ```
+4.    ```bash git checkout -b lang/ajout-mina
+git checkout -b fix/correction-kabye ```
