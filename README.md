@@ -26,12 +26,14 @@ Le Togo compte **30+ langues** dont beaucoup n'ont pas d'écriture standardisée
 - **Prononciations spéciales** :  
   | Lettre | Sons possibles | Exemple |  
   |--------|----------------|---------|  
-  | **e**  | é / è / e      | "bele" (manger) |  
-  | **m**  | m / hm         | "mama" (mère) |  
+  | **e**  | é / è / e      |wezon, blewou (bonne arrivé, doucement en éwé|
+  | **m**  | m / hm         ||  
   | **n**  | n / hn         | "nana" (enfant) |  
   | **o**  | o / oh         | "toro" (nuit) |  
   | **r**  | r / rh         | "raru" (soleil) |  
-- **Pas d'accents** : Les sons "ou" s'écrivent `ou`  
+- **Pas d'accents** : Les sons "ou" s'écrivent `ou`
+- **Les lettres h et n forment un nouveau son**: hn
+   exemple: mila hnlon nou la seme la (nous allons écrire et nous comprendre (éwé))
 - **K ↔ C interchangeables** : Ex: "koto" = "coto"  
 
 ### **Syntaxe d'entrée**  
@@ -41,14 +43,18 @@ Pour commencer à écrire dans une langue :
      ```text  
      ..kab  (pour Kabyè)  
      ..ewe  (pour Éwé)  
-     ..tem  (pour Tem)  
+     ..tem  (pour Tem)
+     ..ife (pour ifè)
+     ..adj (pour Adja)
+     ..bas (pour bassar)
+     ..mob (pour moba) 
      ```  
 2. **Ligne suivante** : Texte dans la langue choisie  
 
 ### **Exemple Complet**  
 ```text  
 ..ewe  
-Miawoe zɔ ! (Bonjour !)  
+Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
 
 ## ✨ Fonctionnalités  
 | Caractéristique | Description |  
