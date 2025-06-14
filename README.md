@@ -57,7 +57,7 @@ Pour commencer à écrire dans une langue :
 Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
 
 
-## 🤝 Comment contribuer
+### 🤝 Comment contribuer
 
 Nous avons besoin de :
 - **Linguistes** : Vérifier les transcriptions  
