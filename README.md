@@ -25,11 +25,11 @@ Le Togo compte **30+ langues** dont beaucoup n'ont pas d'écriture standardisée
 - **Prononciations spéciales** :  
   | Lettre | Sons possibles | Exemple |  
   |--------|----------------|---------|  
-  | **e**  | é / è / e      |wezon, blewou (bonne arrivé, doucement en éwé|
-  | **m**  | m / hm         | manzi? ('Que je dépose?' en Kabyè) mbenare! ('je dis!' en éwé )|  
-  | **n**  | n / hn         | "nana" (enfant) |  
-  | **o**  | o / oh         | "toro" (nuit) |  
-  | **r**  | r / rh         | "raru" (soleil) |  
+  | **e**  | é / è / e      |"wezon", "blewou" ( "bonne arrivé", "doucement" en éwé|
+  | **m**  | m / hm         | "manzi?" ('Que je dépose?' en Kabyè) "mbenare!" ('je dis!' en éwé )|  
+  | **n**  | n / Ƞ        |"ndong souwe ?"  (tu dis quoi en kabyè) |  
+  | **o**  | o / כ         | "molou" (riz en éwé), "lomou" (rivière en kabyè) |  
+  | **r**  | r / ɖ         | "rong" (la force en kabyè), "kirim"( nourriture en Tem ou kotokoli |  
 - **Pas d'accents** : Les sons "ou" s'écrivent `ou`
 - **Les lettres h et n forment un nouveau son**: hn
    exemple: mila hnlon nou la (nous allons écrire (éwé))
