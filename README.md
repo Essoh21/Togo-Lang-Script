@@ -66,12 +66,25 @@ Nous avons besoin de :
 - **Locuteurs natifs** : Tester dans votre langue, ajouter des exemples, utiliser dans les groupes de discussions
 
 **Démarrage rapide** :
-1. 🍴 Forkez ce dépôt
+1. 🍴 Forkez ce dépôt  
 2. 📥 Clonez votre fork :
    ```bash
-3.     git checkout -b type-de-contribution/nom-branche
-     ```
-4. Exemples    ```bash
-       git checkout -b lang/ajout-mina
-       git checkout -b fix/correction-kabye
-```
+   git clone https://github.com/votre-utilisateur/nom-du-depot.git
+   cd nom-du-depot
+🛠️ Créez une nouvelle branche :
+
+bash
+Copy
+Edit
+git checkout -b type-de-contribution/nom-branche
+🧪 Exemples de noms de branches :
+
+bash
+Copy
+Edit
+git checkout -b lang/ajout-mina
+git checkout -b fix/correction-kabye
+yaml
+Copy
+Edit
+
