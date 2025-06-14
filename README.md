@@ -68,10 +68,10 @@ Nous avons besoin de :
 **Démarrage rapide** :
 1. 🍴 Forkez ce dépôt
 2. 📥 Clonez votre fork :
-3.   ```bash
-4.     git checkout -b type-de-contribution/nom-branche
-5.   ```
-6.    ```bash
+   ```bash
+3.     git checkout -b type-de-contribution/nom-branche
+     ```
+4. Exemples    ```bash
        git checkout -b lang/ajout-mina
        git checkout -b fix/correction-kabye
 ```
