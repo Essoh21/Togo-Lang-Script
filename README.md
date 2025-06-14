@@ -19,6 +19,37 @@ Le Togo compte **30+ langues** dont beaucoup n'ont pas d'écriture standardisée
 - Préserver le patrimoine linguistique  
 - Permettre l'édition numérique  
 
+## 📜 Règles d'écriture TGS
+
+### **Alphabet & Prononciation**  
+- Utilise **25 lettres** (A-Z sauf **Q**)  
+- **Prononciations spéciales** :  
+  | Lettre | Sons possibles | Exemple |  
+  |--------|----------------|---------|  
+  | **e**  | é / è / e      | "bele" (manger) |  
+  | **m**  | m / hm         | "mama" (mère) |  
+  | **n**  | n / hn         | "nana" (enfant) |  
+  | **o**  | o / oh         | "toro" (nuit) |  
+  | **r**  | r / rh         | "raru" (soleil) |  
+- **Pas d'accents** : Les sons "ou" s'écrivent `ou`  
+- **K ↔ C interchangeables** : Ex: "koto" = "coto"  
+
+### **Syntaxe d'entrée**  
+Pour commencer à écrire dans une langue :  
+1. **Première ligne** : `..` + **3-4 premières lettres de la langue**  
+   - Exemples :  
+     ```text  
+     ..kab  (pour Kabyè)  
+     ..ewe  (pour Éwé)  
+     ..tem  (pour Tem)  
+     ```  
+2. **Ligne suivante** : Texte dans la langue choisie  
+
+### **Exemple Complet**  
+```text  
+..ewe  
+Miawoe zɔ ! (Bonjour !)  
+
 ## ✨ Fonctionnalités  
 | Caractéristique | Description |  
 |----------------|-------------|  
