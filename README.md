@@ -55,9 +55,9 @@ Pour commencer à écrire dans une langue :
 ```text  
 ..ewe  
 Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
+   ```bash
 
-
-### 🤝 Comment contribuer
+## 🤝 Comment contribuer
 
 Nous avons besoin de :
 - **Linguistes** : Vérifier les transcriptions  
@@ -67,8 +67,3 @@ Nous avons besoin de :
 **Démarrage rapide** :
 1. 🍴 Forkez ce dépôt
 2. 📥 Clonez votre fork :  
-   ```bash
-   git clone https://github.com/votre-username/togolang-script.git
-
-git checkout -b ma-contribution
-
