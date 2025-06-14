@@ -55,7 +55,6 @@ Pour commencer à écrire dans une langue :
 ```text  
 ..ewe  
 Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
-   ```bash
 
 ## 🤝 Comment contribuer
 
