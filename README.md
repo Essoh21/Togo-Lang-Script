@@ -27,14 +27,15 @@ Le Togo compte **30+ langues** dont beaucoup n'ont pas d'écriture standardisée
   | Lettre | Sons possibles | Exemple |  
   |--------|----------------|---------|  
   | **e**  | é / è / e      |wezon, blewou (bonne arrivé, doucement en éwé|
-  | **m**  | m / hm         ||  
+  | **m**  | m / hm         | manzi? ('Que je dépose?' en Kabyè) mbenare! ('je dis!' en éwé )|  
   | **n**  | n / hn         | "nana" (enfant) |  
   | **o**  | o / oh         | "toro" (nuit) |  
   | **r**  | r / rh         | "raru" (soleil) |  
 - **Pas d'accents** : Les sons "ou" s'écrivent `ou`
 - **Les lettres h et n forment un nouveau son**: hn
-   exemple: mila hnlon nou la seme la (nous allons écrire et nous comprendre (éwé))
+   exemple: mila hnlon nou la (nous allons écrire (éwé))
 - **K ↔ C interchangeables** : Ex: Kanami ou canami désignent exactement la même chose le poisson en éwé
+- - **Pour prolonger sur un son, on doit doubler la voyelle** : Ex: gnawoo! (exclamation pour confirmer en éwé)
 
 ### **Syntaxe d'entrée**  
 Pour commencer à écrire dans une langue :  
