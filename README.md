@@ -54,7 +54,9 @@ Pour commencer à écrire dans une langue :
 ### **Exemple Complet**  
 ```text  
 ..ewe  
-Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)  
+Miawoe zon ! (Soyez les bien venu ou bonne arrivée!)
+
+```
 
 ## 🤝 Comment contribuer
 
